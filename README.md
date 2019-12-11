@@ -1,3 +1,6 @@
+# Modify 
+1. support hugo v0.52
+
 # m10c theme
 
 ![Intro](https://github.com/vaga/hugo-theme-m10c/blob/master/images/cover.png)
